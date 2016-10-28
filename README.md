@@ -1,3 +1,3 @@
 # sedy_test
 
-Attention à la cohérence
+Attention à la consistence
