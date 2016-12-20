@@ -1,3 +1,3 @@
 # sedy_test
 
-Attention à la cohérence
+Sedy will fix typos for you !
